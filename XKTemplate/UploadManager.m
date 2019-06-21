@@ -21,6 +21,7 @@ static NSString *QiNiuHost = kQiNiuHost; //外链默认域名
 
 @property (nonatomic, assign) NSInteger index;
 //test2
+//test3
 /**
  *  上传所需的token
  */
