@@ -20,7 +20,7 @@ static NSString *QiNiuHost = kQiNiuHost; //外链默认域名
 @interface UploadManager ()
 
 @property (nonatomic, assign) NSInteger index;
-//test1
+//test2
 /**
  *  上传所需的token
  */
