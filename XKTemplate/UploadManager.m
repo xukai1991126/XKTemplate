@@ -23,6 +23,7 @@ static NSString *QiNiuHost = kQiNiuHost; //外链默认域名
 //test2
 //test3
 //test4
+//test1
 /**
  *  上传所需的token
  */
