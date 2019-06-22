@@ -13,7 +13,7 @@
 #import <CommonCrypto/CommonCryptor.h>
 #import <CommonCrypto/CommonDigest.h>
 #import "QN_GTM_Base64.h"
-
+//dev-test1
 static NSInteger defaultLiveTime = 5;
 static NSString *QiNiuHost = kQiNiuHost; //外链默认域名
 
